@@ -3,7 +3,11 @@
 #include <ctime>
 using namespace std;
 
+<<<<<<< HEAD
 //Something Changing
+=======
+//Just made some changes here!
+>>>>>>> 613b8fde3b48da20eb9b9a7d32a12a615224b3db
 
 int dealercard(int &Dcard)//Dealer get cards 
 {
