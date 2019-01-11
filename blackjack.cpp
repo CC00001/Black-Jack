@@ -3,6 +3,8 @@
 #include <ctime>
 using namespace std;
 
+//Just made some changes here!
+
 int dealercard(int &Dcard)//Dealer get cards 
 {
 srand(time(NULL));
